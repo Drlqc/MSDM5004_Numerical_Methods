@@ -1,4 +1,4 @@
 * Methods:
-> General iterative algorithm
-> Newton's method -- knowing deviation of the function
-> Secant method -- not knowing deviation
+1. General iterative algorithm
+2. Newton's method -- knowing deviation of the function
+3. Secant method -- not knowing deviation
